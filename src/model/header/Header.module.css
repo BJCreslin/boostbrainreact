@@ -1,0 +1,9 @@
+.main {
+    grid-area: header;
+    background: #29749b;
+
+}
+
+img {
+    max-width: 60px;
+}
